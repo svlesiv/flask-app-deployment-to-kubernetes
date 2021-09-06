@@ -18,6 +18,7 @@ docs/_build/
 __pycache__
 .env_file
 .vscode
+aws-auth-patch.yml
 
 # Coverage reports
 htmlcov/
